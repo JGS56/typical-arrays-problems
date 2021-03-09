@@ -37,4 +37,3 @@ exports.avg = function(array = "empty") {
       return sumOfEle / array.length;
   }
 }
-}
